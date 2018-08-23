@@ -1,0 +1,11 @@
+body{
+    background-color: red;
+    color: white;
+}
+#tupian{
+    width: 466px;
+    height: 446px;
+    background-image: url(../images/69e273f8ly1fspuvlkd78j21sg1sg7wh.jpg);
+    background-size: 100%;
+    transform:rotate(45deg);
+}
